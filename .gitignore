@@ -1,0 +1,6 @@
+venv
+__pycache__
+LICENSE
+.env
+app.db
+twitch_token.txt
