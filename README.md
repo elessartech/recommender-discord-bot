@@ -7,8 +7,8 @@ A discord bot, written in Python, that recommends random games to play according
 
 ## Environment 
 
-| Avainsana | |
-| ------ | ------ 
+| Avainsana |
+| ------ | 
 | DISCORD_TOKEN  | 
 | DISCORD_GUILD |  
 | IGDB_API_TOKEN |  
