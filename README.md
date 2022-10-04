@@ -2,7 +2,7 @@
 
 ## Description
 
-A discord bot, written in Python, that recommends random games to play according to the provided parameters. Uses [IGDB API]('https://www.igdb.com/api').
+A discord bot, written in Python, that recommends random games to play according to the provided parameters. Uses [IGDB API](https://www.igdb.com/api).
 
 
 ## Environment 
