@@ -7,13 +7,12 @@ A discord bot, written in Python, that recommends random games to play according
 
 ## Environment 
 
-| Avainsana |
+| Variable |
 | ------ | 
 | DISCORD_TOKEN  | 
 | DISCORD_GUILD |  
 | IGDB_API_TOKEN |  
 | IGDB_API_USER_ID |  
-| TWITCH_API_TOKEN | 
 
 ## Launch
 
